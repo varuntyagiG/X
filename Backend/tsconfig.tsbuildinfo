@@ -1,0 +1,1 @@
+{"root":["./src/index.ts","./src/database/db.ts","./src/database/signup.ts","./src/database/task.ts","./src/routes/signup.ts","./src/routes/signin.ts","./src/routes/work.ts"],"version":"5.8.3"}
